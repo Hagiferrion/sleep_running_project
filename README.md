@@ -149,6 +149,3 @@ sleep_fatigue_project/
 │   └── *.png
 └── README.md
 
-
-
-원하시면 바로 이어서 해드릴게요.
